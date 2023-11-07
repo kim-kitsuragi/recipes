@@ -1,2 +1,2 @@
 # koorlasan.github.io
-you can see it on https://koorlasan.github.io/
+Your site is live at https://kim-kitsuragi.github.io/recipes/
